@@ -1,7 +1,7 @@
 # HR-OTTA: Robust Online Test-Time Adaptation with Hybrid Fine-Tuning
 Official code for [HR-OTTA: Robust Online Test-Time Adaptation with Hybrid Fine-Tuning]
 
-##- **IJCNN 2025**  
+## **IJCNN 2025**  
 https://ieeexplore.ieee.org/document/11228164
 
 We provide benchmarking and comparison for the following methods:
